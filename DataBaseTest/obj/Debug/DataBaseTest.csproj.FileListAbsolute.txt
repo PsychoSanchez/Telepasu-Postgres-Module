@@ -16,3 +16,6 @@ C:\Users\Evgen\Documents\Telepasu\DataBaseTest\DataBaseTest\obj\Debug\DataBaseTe
 C:\Users\Evgen\Documents\Telepasu\DataBaseTest\DataBaseTest\obj\Debug\DataBaseTest.pdb
 C:\Users\Evgen\Documents\Telepasu\DataBaseTest\DataBaseTest\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Evgen\Documents\Telepasu\DataBaseTest\DataBaseTest\bin\Debug\Newtonsoft.Json.xml
+D:\Repositories\Telepasu postgres module\DataBaseTest\obj\Debug\DataBaseTest.csprojResolveAssemblyReference.cache
+D:\Repositories\Telepasu postgres module\DataBaseTest\obj\Debug\DataBaseTest.exe
+D:\Repositories\Telepasu postgres module\DataBaseTest\obj\Debug\DataBaseTest.pdb

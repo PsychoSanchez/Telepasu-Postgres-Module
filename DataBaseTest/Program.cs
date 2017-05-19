@@ -3,6 +3,7 @@ using FluentNHibernate.Cfg.Db;
 using Newtonsoft.Json;
 using NHibernate;
 using NHibernate.Cfg;
+using NHibernate.Linq;
 using NHibernate.Tool.hbm2ddl;
 using System;
 using System.Collections.Concurrent;
@@ -64,12 +65,10 @@ namespace DataBaseTest
             //    session.Save(user);
             //    tr.Commit();
             //}
-            
+
             //var user_temp = sf.OpenSession().CreateCriteria<ServerUsers>().List<ServerUsers>();
 
-            //var wtf = (from p in sf.OpenSession().Query<CallHistory>()
-            //           where p.Number == "123"
-            //           select p).FirstOrDefault();
+            var wtf = (from p in sf.OpenSession().Query<CallHistory>() select p);
 
             //Console.WriteLine(user_temp[0].Password);
 

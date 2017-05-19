@@ -61,8 +61,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CommandTemplate.cs" />
+    <Compile Include="Contact\ContactData.cs" />
     <Compile Include="ContactsBook\ContactsBook.cs" />
     <Compile Include="ContactsBook\ContactsBookMap.cs" />
+    <Compile Include="Contact\ContactNote.cs" />
+    <Compile Include="Contact\ContactNumber.cs" />
+    <Compile Include="DataBaseMethods.cs" />
     <Compile Include="NoteTypes\NoteTypes.cs" />
     <Compile Include="NoteTypes\NoteTypesMap.cs" />
     <Compile Include="Numbers\Numbers.cs" />
